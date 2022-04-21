@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @dhaliwalg
-- 👀 I’m interested in developing iOS tweaks and software development
-- 🌱 I’m currently learning Obj-C, and other languages through my courses
-- 💞️ I’m looking to collaborate on iOS tweaks!
+interested in obj-c/jailbreak development.
+trying my hand at a bunch of other things too 👀
