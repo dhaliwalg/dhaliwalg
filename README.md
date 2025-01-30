@@ -1,1 +1,1 @@
-interested in obj-c/jailbreak development.
+interested in jailbreak development.
